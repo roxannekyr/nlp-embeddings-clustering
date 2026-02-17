@@ -1,9 +1,0 @@
-pandas==2.3.3
-numpy==2.4.2
-matplotlib==3.10.7
-seaborn==0.13.2
-scikit-learn==1.7.2
-gensim==4.4.0
-hdbscan==0.8.41
-python-dotenv==1.0.1
-scipy==1.17.0
