@@ -68,17 +68,13 @@ General Conclusion: For topic-based clustering tasks, the optimal vectorization 
 
 <h2>Clustering Visualizations:</h2>
 
-<b>BBC news Clustering:</b>
-<img src="https://i.imgur.com/XXXXXXX.png" height="80%" width="80%" alt="BBC news Clustering Visualization"/>
-<br />
-<br />
+<b>BBC News Clustering:</b><br/>
+<img src="images/image_b76781.png" height="80%" width="80%" alt="BBC News Clustering Visualization"/>
+<br /><br />
 
-https://imgur.com/a/
-
-<b>20 News Group Clustering:</b>
-<img src="https://i.imgur.com/Nd75o1W.png" height="80%" width="80%" alt="20 News Group Clustering Visualization"/>
-<br />
-<br />
+<b>20 News Group Clustering:</b><br/>
+<img src="images/image_b7792a.png" height="80%" width="80%" alt="20 News Group Clustering Visualization"/>
+<br /><br />
 
 
 
